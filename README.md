@@ -1,6 +1,6 @@
 # Run
 ```bash
-cmake
+cmake CMakeLists.txt
 make
 ./output
 ```
